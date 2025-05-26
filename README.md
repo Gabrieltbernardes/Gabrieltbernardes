@@ -1,67 +1,71 @@
-# 👋 Olá! Eu sou o Gabriel T. Bernardes
-
-🎓 Estudante de Desenvolvimento de Software apaixonado por tecnologia e inovação.  
-💡 Focado em criar soluções práticas e eficientes para o dia a dia.  
-🌱 Atualmente explorando as áreas de desenvolvimento mobile, web e inteligência artificial.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-- **Linguagens:** Python, Kotlin, PHP, C++
-- **Frameworks & Bibliotecas:** Flask, Android SDK
-- **Ferramentas:** Git, GitHub, VS Code, Google Colab
-- **Áreas de Interesse:** Desenvolvimento Mobile, Web, APIs, Chatbots, Autômatos Finitos
-
----
-
-## 📂 Repositórios em Destaque
-
-### 🚀 [TaskApp](https://github.com/Gabrieltbernardes/TaskApp)  
-Aplicativo de turismo desenvolvido em Kotlin, focado em facilitar o planejamento de viagens.
-
-### 🧒 [Nutrikids](https://github.com/Gabrieltbernardes/Nutrikids)  
-Projeto em PHP voltado para educação nutricional infantil, promovendo hábitos alimentares saudáveis.
-
-### 🏦 [pyBankApi](https://github.com/Gabrieltbernardes/pyBankApi)  
-API bancária simples desenvolvida em Python, simulando operações básicas de um sistema bancário.
-
-### 🤖 [ChatBOT](https://github.com/Gabrieltbernardes/ChatBOT)  
-Chatbot interativo criado em Python, capaz de responder a perguntas frequentes e auxiliar usuários.
-
-### 🅿️ [Estacionamento](https://github.com/Gabrieltbernardes/Estacionamento)  
-Sistema de gerenciamento de estacionamento desenvolvido em C++, controlando entradas e saídas de veículos.
-
-### 🔄 [emulador_maquinas_finitas](https://github.com/Gabrieltbernardes/emulador_maquinas_finitas)  
-Emulador de máquinas de estados finitos implementado em C++, útil para estudos de autômatos e linguagens formais.
-
+# 👋 Olá! Eu sou o Gabriel Bernardes Desenvolvedor Back-End
 ---
 
 ## 📈 Estatísticas do GitHub
+<div style="display: inline_block"><br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gabrieltbernardes&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltbernardes&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+</div>
 
-### 🔥 Contribuições e Nível de Atividade
+<p align="center">
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Gabriel-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Gabriel-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabrieltbernardes&theme=radical&hide_border=true)
 
-### 📊 Estatísticas Gerais
+---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrieltbernardes&show_icons=true&theme=radical&hide_border=true)
+## 🚀 Projetos em Destaque
 
-### 💻 Linguagens Mais Usadas
+### 🚚 Transportadora [🔗](https://github.com/Gabrieltbernardes/transportadora)
+Sistema de gerenciamento logístico para uma transportadora fictícia, com controle de cargas, entregas e rotas.
+> 📦 C++ | 🗃️ Estrutura de Dados | 🛣️ Simulação de logística
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltbernardes&layout=compact&theme=radical&hide_border=true)
+---
 
-### 📉 Gráfico de Atividades Recentes
+### 🥦 Nutrikids [🔗](https://github.com/Gabrieltbernardes/Nutrikids)
+Projeto educativo feito em PHP, voltado para incentivar hábitos alimentares saudáveis entre crianças.
+> 🍎 PHP | 🧒 Educação | 🥗 Nutrição infantil
 
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Gabrieltbernardes&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+### 🤖 ChatBOT [🔗](https://github.com/Gabrieltbernardes/ChatBOT)
+Chatbot simples feito em Python para interações automatizadas com o usuário.
+> 💬 Python | 🧠 Lógica de diálogo | 🗣️ Respostas automatizadas
+
+---
+
+### 🧬 Algoritmo Genético [🔗](https://github.com/Gabrieltbernardes/algoritmo-genetico)
+Implementação de um algoritmo genético para resolução de problemas de otimização.
+> 🧠 Python | 📈 Otimização | 🌱 Evolução Computacional
+
+---
+
+### 🌳 Árvore AVL [🔗](https://github.com/Gabrieltbernardes/arvore-avl)
+Implementação de árvore AVL balanceada com operações de inserção e rotação.
+> ⚙️ C++ | 🔄 Estrutura de Dados | 📚 Algoritmos Avançados
 
 ---
 
 ## 📫 Contato
 
-- GitHub: [Gabrieltbernardes](https://github.com/Gabrieltbernardes)
-- LinkedIn: [Gabriel Teixeira Bernardes](https://www.linkedin.com/in/gabriel-teixeira-bernardes-2b97ab271)
-
----
+<div> 
+  <a href="https://instagram.com/ogabrieltb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielbernardesprf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-teixeira-bernardes-2b97ab271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><br>
 
 *Este perfil é uma vitrine dos meus projetos e aprendizados. Sinta-se à vontade para explorar os repositórios e contribuir!*
