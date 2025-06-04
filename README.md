@@ -1,20 +1,6 @@
 # 👋 Olá! Eu sou o Gabriel Bernardes Desenvolvedor Back-End
 ---
 
-## 📈 Estatísticas do GitHub
-<div style="display: inline_block"><br>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gabrieltbernardes&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltbernardes&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
-</div>
-
 <p align="center">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -57,6 +43,22 @@ Implementação de um algoritmo genético para resolução de problemas de otimi
 ### 🌳 Árvore AVL [🔗](https://github.com/Gabrieltbernardes/arvore-avl)
 Implementação de árvore AVL balanceada com operações de inserção e rotação.
 > ⚙️ C++ | 🔄 Estrutura de Dados | 📚 Algoritmos Avançados
+
+---
+
+## 📈 Estatísticas do GitHub
+<div style="display: inline_block"><br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gabrieltbernardes&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltbernardes&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
