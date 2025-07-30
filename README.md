@@ -1,73 +1,49 @@
-# 👋 Olá! Eu sou o Gabriel Bernardes Desenvolvedor Back-End
----
+# Gabriel Teixeira Bernardes
 
-<p align="center">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gabriel-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Gabriel-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</p>
+### Java Developer | Back-end Engineer
 
+Hi there! I am a Back-End Developer specializing in the Java ecosystem, building RESTful APIs and scalable applications with Spring Boot, Spring Data JPA/Hibernate, and SQL databases. Currently, I am seeking a Junior Developer position to apply my problem-solving abilities to build high-performance software.
+
+**Contact:** [LinkedIn](https://linkedin.com/in/gabriel-t-bernardes) | [Email](mailto:gabrielbernardesprf@gmail.com)
 
 ---
 
-## 🚀 Projetos em Destaque
+### Tech Stack & Tools
 
-### 🚚 Transportadora [🔗](https://github.com/Gabrieltbernardes/transportadora)
-Sistema de gerenciamento logístico para uma transportadora fictícia, com controle de cargas, entregas e rotas.
-> 📦 C++ | 🗃️ Estrutura de Dados | 🛣️ Simulação de logística
-
----
-
-### 🥦 Nutrikids [🔗](https://github.com/Gabrieltbernardes/Nutrikids)
-Projeto educativo feito em PHP, voltado para incentivar hábitos alimentares saudáveis entre crianças.
-> 🍎 PHP | 🧒 Educação | 🥗 Nutrição infantil
+| **Core** | **Databases** | **DevOps & Tools** | **Other Languages** |
+| :--- | :--- | :--- | :--- |
+| Java | SQL | Git | Python |
+| Spring Boot | MySQL | Docker | JavaScript |
+| Spring Security | PostgreSQL | Jenkins (CI/CD) | TypeScript |
+| JPA / Hibernate | | Kubernetes (Familiarity) | C/C++ |
+| RESTful APIs | | | |
 
 ---
 
-### 🤖 ChatBOT [🔗](https://github.com/Gabrieltbernardes/ChatBOT)
-Chatbot simples feito em Python para interações automatizadas com o usuário.
-> 💬 Python | 🧠 Lógica de diálogo | 🗣️ Respostas automatizadas
+## Featured Projects
+
+### 1. Nutritional Reporting System (In Progress)
+* Description: An application that allows nutrition professionals to manage patients and generate analytical reports, optimizing the accuracy of clinical monitoring. This project demonstrates the practical application of microservices and security in a real-world environment.
+* **Stack:** `Java`, `Spring Boot`, `Spring Security`, `MySQL`, `JavaScript`, `Bootstrap`. 
+* **Notable Features:**
+    * Developing REST API endpoints for user authentication (login) and new record insertion. 
+    * Using Spring Security to protect specific routes, ensuring data integrity and confidentiality.
+
+### 2. Logistics Carrier Management System
+* **Repository:** [**`github.com/Gabrieltbernardes/Transportadora`**](https://github.com/Gabrieltbernardes/Transportadora) 
+* **Description:** A desktop application with full CRUD functionality for managing employees and fleets. The project's core includes the implementation of a route optimization algorithm.
+* **Stack:** `Java`, `MySQL`, `Swing`.
+
+### 3. School Nutrition Management System (Nutrikids)
+* **Repository:** [**`github.com/Gabrieltbernardes/Nutrikids`**](https://github.com/Gabrieltbernardes/Nutrikids) 
+* **Description:** A web-based system developed to digitize the nutritional monitoring of students, replacing manual processes and enabling more efficient data analysis by the health team.
+* **Stack:** `PHP`, `MySQL`, `Bootstrap`. [cite: 31]
 
 ---
 
-### 🧬 Algoritmo Genético [🔗](https://github.com/Gabrieltbernardes/algoritmo-genetico)
-Implementação de um algoritmo genético para resolução de problemas de otimização.
-> 🧠 Python | 📈 Otimização | 🌱 Evolução Computacional
+## GitHub Stats
 
----
-
-### 🌳 Árvore AVL [🔗](https://github.com/Gabrieltbernardes/arvore-avl)
-Implementação de árvore AVL balanceada com operações de inserção e rotação.
-> ⚙️ C++ | 🔄 Estrutura de Dados | 📚 Algoritmos Avançados
-
----
-
-## 📈 Estatísticas do GitHub
-<div style="display: inline_block"><br>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gabrieltbernardes&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltbernardes&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrieltbernardes&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltbernardes&layout=compact&theme=radical&hide_border=true" />
 </div>
-
----
-
-## 📫 Contato
-
-<div> 
-  <a href="https://instagram.com/ogabrieltb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielbernardesprf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-teixeira-bernardes-2b97ab271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br>
-
-*Este perfil é uma vitrine dos meus projetos e aprendizados. Sinta-se à vontade para explorar os repositórios e contribuir!*
