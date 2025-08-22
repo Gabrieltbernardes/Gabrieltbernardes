@@ -16,7 +16,7 @@ Hi there! I am a Back-End Developer specializing in the Java ecosystem, building
 | Spring Boot | MySQL | Docker | JavaScript |
 | Spring Security | PostgreSQL | Jenkins (CI/CD) | TypeScript |
 | JPA / Hibernate | | Kubernetes (Familiarity) | C/C++ |
-| RESTful APIs | | | |
+| RESTful APIs | | | PHP |
 
 ---
 
